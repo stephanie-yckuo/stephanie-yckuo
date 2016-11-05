@@ -216,7 +216,7 @@ p {
 .resume {
     float: left;
     margin: 4%;
-    margin-top: 8%;
+    margin-top: 6%;
     text-align: left;
 }
 
@@ -227,13 +227,13 @@ p {
 .resume h3 {
     font-family: 'Inika', Helvetica, Arial, sans-serif;
     font-size: 4vh;
-    line-height: 8vh;
+    line-height: 1vh;
 }
 
 .resume h4 {
     font-family: 'Roboto', Helvetica, Arial, sans-serif;
     font-size: 2.5vh;
-    line-height: 4vh;
+    line-height: 1vh;
     letter-spacing: 0.5px;
 }
 

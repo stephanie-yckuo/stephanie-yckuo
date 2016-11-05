@@ -1,0 +1,31 @@
+body{
+	background-image: url(assets/sky.jpg);
+	width: 100%;
+	height: auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+	color:white;
+	margin:0 auto;
+	text-align: center;
+	font-weight: 100;
+	font-size: 6vh;
+	margin-top: 8%;
+	font-family: 'Montserrat', sans-serif;
+}
+#time{
+	text-align: center;
+	font-size: 30vh;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+}
+p{
+	font-size: 6vh;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+}

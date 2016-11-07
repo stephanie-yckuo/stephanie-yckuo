@@ -51,7 +51,6 @@ h1 {
 
 .nav {
     display: inline-block;
-    position: fixed;
     background: rgba(300, 300, 300, 0.9);
     color: #111418;
     float: top;
@@ -89,6 +88,15 @@ h1 {
 .box {
     display: inline-block;
     margin: 1%;
+}
+
+
+/*header*/
+
+header h1 {
+    position: relative;
+    text-align: center;
+    margin: 15%;
 }
 
 

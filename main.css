@@ -81,6 +81,7 @@ h1 {
 }
 
 .nav ul li {
+    list-style-type: none;
     display: inline-block;
     margin: 2.5vh;
 }
@@ -445,6 +446,7 @@ label {
         text-align: right;
         padding: 5%;
         margin: 0%;
+        list-style-type: none;
     }
     .nav-top li {
         margin-top: 4%;
